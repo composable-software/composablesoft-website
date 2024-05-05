@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "composablesoft-website",
   "version": "4.2.0",
   "scripts": {
     "dev": "astro dev",
